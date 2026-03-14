@@ -41,3 +41,9 @@ If the virtual environment already exists, you can run it directly:
 
 - The final level contains the Gravity Core ending sequence.
 - Level data is separated from gameplay code to keep the project easier to extend.
+
+## Dev Notes
+- You can add levels on your own as well
+- Create a PR for levels that you build and i'll include it if i like your level. 
+
+### Just a fun vibe coded game, enjoy and extend levels if you like, might add some more code documentation if i found some time and interest in this project.
